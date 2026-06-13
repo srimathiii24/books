@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+table,th,td{
+    border-collapse: collapse;
+    border:2px black solid;
+    padding:20px 30px;
+    text-align: center;
+}
+tr[class="row1"]
+{
+background: linear-gradient(315deg, #DD2ADD, #F9C0E9);
+}
+tr[class="row2"]
+{
+    background-image: linear-gradient(135deg, #fa709a 10%, #fee140 100%);
+}
+tr[class="row3"]
+{
+   background: linear-gradient(315deg, #DD2ADD, #F9C0E9);
+}
+tr[class="row4"]
+{
+    background: linear-gradient(315deg, #DD2ADD, #F9C0E9);
+}
+tr[class="row5"]
+{
+    background-image: linear-gradient(135deg, #AFF1DA 10%, #F9EA8F 100%);
+}
+
